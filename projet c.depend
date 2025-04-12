@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1702928510 source:c:\users\ayout\onedrive\bureau\nouveau dossier (2)\projet c\main.c
+	<locale.h>
+	<stdio.h>
+	<string.h>
+	"structure.h"
+
+1702925178 c:\users\ayout\onedrive\bureau\nouveau dossier (2)\projet c\structure.h
+
